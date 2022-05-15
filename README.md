@@ -38,3 +38,14 @@ client.login('token');//El token es extraido de developer portal de discord ^^
 # Agradecimientos
 Tú ♥ ^^
 
+# Notas de la nueva versión
+Añadidas:
+...
+Reparadas:
+README.md
+Eliminadas:
+...
+
+# Noticias!
+¡Nada por el momento!
+
