@@ -126,6 +126,82 @@ function Shinobumemes(){
         return memeSelected;
         
     }
+    function video(){
+        let bru = ['https://cdn.discordapp.com/attachments/800492919537926206/838456855675928596/WHATSAPPEADO.mp4',
+        'https://cdn.discordapp.com/attachments/800492919537926206/838078439281000448/VID_138110610_114145_480.mp4',
+        'https://cdn.discordapp.com/attachments/800492919537926206/837488042884333578/SPOILER_el_apocalipsis_deja_de_ser_un_miedo_y_se_torna_una_esperanza.mp4',
+        'https://cdn.discordapp.com/attachments/800492919537926206/837024022965125197/pico_says_quiero_tula.mp4',
+        'https://cdn.discordapp.com/attachments/800492919537926206/836351909177720882/video0-142.mp4',
+        'https://cdn.discordapp.com/attachments/800492919537926206/836305402299809863/y2mate.com_-_Cuando_el_profesor_de_RELIGION_y_el_de_BIOLOGIA_comienzan_a_debatir_acerca_del_origen_d.mp4',
+        'https://cdn.discordapp.com/attachments/800492919537926206/835221036395135026/video0-16-1.mp4',
+        'https://cdn.discordapp.com/attachments/800492919537926206/834173871401074728/video2-1-1.mp4',
+        'https://cdn.discordapp.com/attachments/800492919537926206/838463353830637598/bobux-1.mp4',
+        'https://cdn.discordapp.com/attachments/782324833123827732/813425862082953316/video0.mp4',
+        'https://cdn.discordapp.com/attachments/808795831263428728/838458428972072990/video0-92.mp4',
+        'https://cdn.discordapp.com/attachments/808795831263428728/838463758653325312/video_meme-7.mp4',
+        'https://cdn.discordapp.com/attachments/808795831263428728/838462122756145192/95647684_585465575686712_2219780400483288200_n.mp4',
+        'https://cdn.discordapp.com/attachments/808795831263428728/838551638514860042/video0.mp4',
+        'https://cdn.discordapp.com/attachments/808795831263428728/838551904933904434/video0.mp4',
+        'https://cdn.discordapp.com/attachments/808795831263428728/838554249355853824/video0-7-3.mp4',
+        'https://cdn.discordapp.com/attachments/800492919537926206/838230246653165618/video0-6-4.mp4',
+        'https://cdn.discordapp.com/attachments/834286889997434890/838800199878311946/SPOILER_si_tu_comoces_esto_no_tienes_menos_de_20.mp4',
+        "https://cdn.discordapp.com/attachments/765615121669292103/787148991493046312/ough.mp4",
+        "https://cdn.discordapp.com/attachments/765615121669292103/783048265797074954/Venezuela-1.mp4",
+        "https://cdn.discordapp.com/attachments/765615121669292103/783045746378407976/video0-45.mp4",
+        "https://cdn.discordapp.com/attachments/765615121669292103/783043453206397058/videoplayback.mp4",
+        "https://cdn.discordapp.com/attachments/765615121669292103/783043797386657872/lv_0_20201128224339-3.mp4",
+        "https://cdn.discordapp.com/attachments/765615121669292103/783027689711337493/Siempre_camino_flexin_por_la_street720P_HD.mp4",
+        "https://cdn.discordapp.com/attachments/765615121669292103/783026132600750090/video0-3-3.mp4",
+        "https://cdn.discordapp.com/attachments/765615121669292103/794635097097240656/SPOILER_Esto_es_un_party_debajo_del_agua360P.mp4",
+        "https://cdn.discordapp.com/attachments/765615121669292103/794635337912549406/video0_7.mp4",
+        "https://cdn.discordapp.com/attachments/765615121669292103/794636177654415360/InShot_20201228_000805551.mp4",
+        "https://cdn.discordapp.com/attachments/765615121669292103/794643883643895848/Webi_wabo_--_vs_feminista720P_HD.mp4",
+        "https://cdn.discordapp.com/attachments/765615099536211978/794442716771123240/Sin_titulo_4_720p.mp4",
+        "https://cdn.discordapp.com/attachments/765606729526280212/794202368576192542/Facebook_162489942289796MP4_1.mp4",
+        "https://cdn.discordapp.com/attachments/765615121669292103/794721738625384478/video0_4.mp4",
+        "https://cdn.discordapp.com/attachments/765615121669292103/795017593156534302/San_andreas.mp4",
+        "https://cdn.discordapp.com/attachments/765606729526280212/794767098655670272/video0-4-2.mp4",
+        "https://cdn.discordapp.com/attachments/792537650895781918/794978133798420480/VID_20210102_013232.mp4",
+        "https://cdn.discordapp.com/attachments/752941675868848128/767273460165640212/When_two_rocks_look_identical360P_1-2-1.mp4",
+        "https://cdn.discordapp.com/attachments/410197118263754753/715467196574203964/cerraelorto.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/796092364208603156/119985591_802112317269709_5086461620556041486_n.mp4",
+        "https://cdn.discordapp.com/attachments/789532336881401857/791747030531178536/ves_maschina.mp4",
+        "https://cdn.discordapp.com/attachments/792519367132708875/796392132981162034/Troleo_Kronk_Full_HD_4k_1080p_60fps.mp4.mp4",
+        "https://cdn.discordapp.com/attachments/772336555628953610/796361948366635008/6420ffad42dcf9f2c76462e14d7842d9.mp4",
+        "https://cdn.discordapp.com/attachments/676039897584369664/795022810795081768/VID_35030503_170357_530.mp4",
+        "https://cdn.discordapp.com/attachments/385837258768515083/796503319899275284/Angry_German_Kids_dad_Harold_Slikk_Original_VideoDownload-1.mp4",
+        "https://cdn.discordapp.com/attachments/410197118263754753/728136196047241256/aa7284290f986c74ed00ec28939mp4.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/797117562717995028/JAJA_NOPOR_dswddaswdsawdas.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/797100415380488252/magarukun_1346312228220276736480P_1.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/796806346351312976/XD_pedo.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/796548113593794580/video0-47.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/796439653371609108/5_5_PATATA_SONIC_LEGO360P_1.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/796060523874484224/trolleo_benson360P_1.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/798205527607476255/dancing_Coscu.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/798203790314176542/837171-1.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/797859047420330026/Discord_descripcion.mp4",
+        "https://cdn.discordapp.com/attachments/410197118263754753/716918468355555338/when_you_play_Wall-Nut_Bowlingd.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/800762458427621416/VID-20201223-WA0008.mp4",
+        "https://cdn.discordapp.com/attachments/724341381602214118/801645816087445555/adbfc495acf957ecb9234870d4a2e971.mp4",
+        "https://cdn.discordapp.com/attachments/724341381602214118/800234894277869568/video0-2-1-1.mp4",
+        "https://cdn.discordapp.com/attachments/789999799792959488/799533169551474698/police_0.mp4",
+        "https://cdn.discordapp.com/attachments/410197118263754753/721487223794434168/video0-1-3.mp4",
+        "https://cdn.discordapp.com/attachments/779134399681003550/794799289968492575/VID-20201127-WA0018.mp4",
+        "https://cdn.discordapp.com/attachments/764447332288561152/791079547352514630/video0.mp4",
+        "https://cdn.discordapp.com/attachments/775137854284234754/787723705102630922/VID-20201213-WA0000.mp4",
+        "https://cdn.discordapp.com/attachments/773018912237027348/778719749264900165/redditsave.com-aaaaaaaaaaaaaaaaaa-m82nc88xszy51.mp4",
+        "https://cdn.discordapp.com/attachments/698948374908502036/776442585546883112/6143d29bb43fb82a6bded245370e2581.mp4",
+        "https://cdn.discordapp.com/attachments/623874706990301207/773578136670568468/video0_16.mp4",
+        "https://cdn.discordapp.com/attachments/623874706990301207/771810408692056074/video0_-_2020-10-29T232908.469.mp4",
+        "https://cdn.discordapp.com/attachments/670372981729394690/764310442797170708/maruchan_shitposting_oficial-20201009-0002.mp4",
+        "https://cdn.discordapp.com/attachments/505855163098071052/755471868714287204/VID-20200829-WA0218-1.mp4",
+        "https://cdn.discordapp.com/attachments/359424930686828544/736011613018259466/CErrA_eL_OrtO-2.mp4",
+        "https://cdn.discordapp.com/attachments/792519369350578176/803396540546809946/video0.mp4"
+        ]
+        const vid = bru[Math.floor(Math.random() * bru.length)]
+                
+        return vid;
+        }
     
     
         
@@ -133,7 +209,8 @@ function Shinobumemes(){
     
     
     module.exports = {
-        Shinobumemes
+        Shinobumemes, 
+        video
     }
     /*
     ¿Qué miras guarro?

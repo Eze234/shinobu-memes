@@ -5,12 +5,13 @@ Shinobu Memes es un modulo que cuenta con memes variados!. Perfecto para tú bot
 # Uso
 ```js
 const momos = require('shinobu-memes');//Requerimos el paquete
-const meme = momos.Shinobumemes
+const meme = momos.Shinobumemes()
 console.log(meme)//Retorna los memes qué tenemos por el momento ^^
 ```
 # Ejemplo
 ```js
 const a = require('shinobu-memes')
+
 const meme = a.Shinobumemes()
 
 const Discord = require('discord.js');
@@ -18,7 +19,7 @@ const client = new Discord.Client({
     intents: 98047
 })
 client.on('ready', () => {
-    console.log('Shinobu Memes-Dev')
+    console.log(meme)
 });
 
 client.on('message', (message) => {
