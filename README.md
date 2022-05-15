@@ -5,7 +5,7 @@ Shinobu Memes es un modulo que cuenta con memes variados!. Perfecto para tú bot
 # Uso
 ```js
 const momos = require('shinobu-memes');//Requerimos el paquete
-const meme = momos.Shinobumemes
+const meme = momos.Shinobumemes()
 console.log(meme)//Retorna los memes qué tenemos por el momento ^^
 ```
 # Ejemplo
