@@ -1,8 +1,8 @@
 {
   "name": "shinobu-memes",
-  "version": "1.0.7",
-  "description": "",
-  "main": "./src/memes.js",
+  "version": "1.0.8",
+  "description": "Generador de imagenes proximo gran cambio!",
+  "main": "./src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/Eze234/shinobu-memes#readme",
   "dependencies": {
-   
     "discord.js": "^13.7.0"
   }
 }

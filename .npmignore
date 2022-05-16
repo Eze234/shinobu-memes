@@ -4,3 +4,6 @@ node_modules
 /Huh/index.d.ts
 config.json
 /Huh/video.js
+/.vscode/setting.json
+/Huh/imagenes.js 
+/Huh/fumos.js

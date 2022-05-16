@@ -1,0 +1,16 @@
+{
+    "rpc.appName": "Visual Studio Code",
+    "rpc.buttonActiveLabel": "Github",
+    "rpc.detailsDebugging": "🔓|Depuración: {file_name}",
+    "rpc.detailsEditing": "📁|Trabajando en {workspace} {problems}",
+    "rpc.detailsViewing": "📁|Trabajando en {workspace} {problems}",
+    "rpc.idleText": "zZzZz",
+    "rpc.largeImage": "💻|Editando {LANG} file",
+    "rpc.largeImageIdling": "🌒Ausente",
+    "rpc.lowerDetailsDebugging": "🔓|Depurando {workspace}",
+    "rpc.lowerDetailsEditing": "💻|Trabajando en {file_name}:{current_line}:{current_column}",
+    "rpc.lowerDetailsIdling": "🌒Ausente",
+    "rpc.lowerDetailsNoWorkspaceFound": "Sin Carpeta.",
+    "rpc.lowerDetailsViewing": "👀|Observando {file_name}",
+    "rpc.problemsText": "- {problemsCount} Problemas encontrados"
+}

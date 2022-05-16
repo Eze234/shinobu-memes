@@ -32,6 +32,8 @@ client.login('token');//El token es extraido de developer portal de discord ^^
 ```
 # Opciones
 `<meme>.Shinobumemes` Retorna memes en español por el momento(Proximamente agregaremos videos y memes en ingles^^)
+`<meme>.video` Retorna con un video en español(Meme en español)
+`<meme>.fumo` Retorna con un fumo aleatorio^^!
 # Links
 [**Discord server**](https://discord.gg/vBEpM5258V)
 
@@ -40,7 +42,8 @@ Tú ♥ ^^
 
 # Notas de la nueva versión
 Añadidas:
-...
+video,
+fumo
 Reparadas:
 README.md
 Eliminadas:
