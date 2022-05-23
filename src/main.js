@@ -1,6 +1,6 @@
 let packageName = '@Shinobu/memes.js'
 
-
+//Memes en español
 function Shinobumemes(){
 
     const eze = [
@@ -126,6 +126,7 @@ function Shinobumemes(){
         return memeSelected;
         
     }
+    //Memes en es
     function video(){
         let bru = ['https://cdn.discordapp.com/attachments/800492919537926206/838456855675928596/WHATSAPPEADO.mp4',
         'https://cdn.discordapp.com/attachments/800492919537926206/838078439281000448/VID_138110610_114145_480.mp4',

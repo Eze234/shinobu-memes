@@ -1,6 +1,6 @@
 {
   "name": "shinobu-memes",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Generador de imagenes proximo gran cambio!",
   "main": "./src/main.js",
   "scripts": {

@@ -4,7 +4,7 @@
     "rpc.detailsDebugging": "🔓|Depuración: {file_name}",
     "rpc.detailsEditing": "📁|Trabajando en {workspace} {problems}",
     "rpc.detailsViewing": "📁|Trabajando en {workspace} {problems}",
-    "rpc.idleText": "zZzZz",
+    "rpc.idleText": "Procrastinando.",
     "rpc.largeImage": "💻|Editando {LANG} file",
     "rpc.largeImageIdling": "🌒Ausente",
     "rpc.lowerDetailsDebugging": "🔓|Depurando {workspace}",
